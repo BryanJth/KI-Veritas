@@ -12,3 +12,17 @@ KI-Veritas adalah chatbot asisten kampus untuk membantu mahasiswa memahami infor
 - **Web UI**: multi chat-session (new chat, rename, delete) + clear chat
 
 ## Struktur Proyek
+```text
+KI-Veritas/
+├─ app.py                    # Web app (Flask) + runtime RAG (Gemini)
+├─ data.py                   # Indexing pipeline (PDF -> Chroma)
+├─ get_embedding_function.py # Embedding function (Sentence-Transformers)
+├─ requirements.txt
+├─ chroma/                   # Persist vector DB (hasil indexing)
+│  ├─ umum/
+│  ├─ event/
+│  ├─ fasilitas/
+│  └─ dosen/
+└─ data/
+   └─ DATASET KA-I.pdf
+```
