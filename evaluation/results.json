@@ -1,0 +1,60 @@
+{
+  "summary": {
+    "k": 5,
+    "total_questions": 6,
+    "verified_scored_questions": 0,
+    "unverified_or_unscored": 6,
+    "message": "No human-verified ground-truth chunk labels; metrics are intentionally not reported."
+  },
+  "questions": [
+    {
+      "id": "q001",
+      "question": "Di mana lokasi kampus utama Universitas Indonesia?",
+      "verified": false,
+      "retrieved_chunk_ids": [],
+      "latency_seconds": null,
+      "metrics": null
+    },
+    {
+      "id": "q002",
+      "question": "Apa fasilitas perpustakaan UI?",
+      "verified": false,
+      "retrieved_chunk_ids": [],
+      "latency_seconds": null,
+      "metrics": null
+    },
+    {
+      "id": "q003",
+      "question": "Siapa dosen di Departemen Matematika?",
+      "verified": false,
+      "retrieved_chunk_ids": [],
+      "latency_seconds": null,
+      "metrics": null
+    },
+    {
+      "id": "q004",
+      "question": "Berapa jumlah mahasiswa UI pada 2040?",
+      "verified": false,
+      "retrieved_chunk_ids": [],
+      "latency_seconds": null,
+      "metrics": null
+    },
+    {
+      "id": "q005",
+      "question": "Bagaimana dengan fakultas tersebut?",
+      "verified": false,
+      "retrieved_chunk_ids": [],
+      "latency_seconds": null,
+      "metrics": null
+    },
+    {
+      "id": "q006",
+      "question": "Program studi apa yang ada di FMIPA UI?",
+      "verified": false,
+      "retrieved_chunk_ids": [],
+      "latency_seconds": null,
+      "metrics": null
+    }
+  ],
+  "limitations": "Retrieval-only; answer faithfulness/correctness require separate human annotations and Gemini calls."
+}

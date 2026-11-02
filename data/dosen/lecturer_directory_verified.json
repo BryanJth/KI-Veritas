@@ -1,0 +1,15 @@
+{
+  "description": "Selected Mathematics Department staff profiles supported by official staff handbooks in the 2026 verified knowledge base. Not an exhaustive faculty roster.",
+  "compiled_at": "2026-11-01",
+  "department": "Departemen Matematika, FMIPA Universitas Indonesia",
+  "source_pdf": "dosen_official_UI_2026.pdf",
+  "directory_url": "https://math.ui.ac.id/",
+  "people": [
+    {"name": "Hendri Murfi", "field": "machine learning, NLP, dan recommender systems", "page": 1, "source_url": "https://math.ui.ac.id/wp-content/uploads/sites/334/2025/03/Staff_Handbook_Hendri-Murfi.pdf"},
+    {"name": "Alhadi Bustamam", "field": "bioinformatika dan komputasi", "page": 1, "source_url": "https://math.ui.ac.id/wp-content/uploads/sites/334/2025/03/Staff_Handbook_Alhadi_Bustamam.pdf"},
+    {"name": "Dipo Aldila", "field": "epidemiologi matematika", "page": 1, "source_url": "https://math.ui.ac.id/wp-content/uploads/sites/334/2025/03/Staff_Handbook_Dipo.pdf"},
+    {"name": "Arman Haqqi Anna Zili", "field": "machine learning dan peramalan deret waktu", "page": 2, "source_url": "https://math.ui.ac.id/wp-content/uploads/sites/334/2025/03/Staf_Handbook_Arman.pdf"},
+    {"name": "Zuherman Rustam", "field": "computational intelligence", "page": 2, "source_url": "https://math.ui.ac.id/wp-content/uploads/sites/334/2025/03/Staff_Handbook_Zuherman_Rustam.pdf"},
+    {"name": "Titin Siswantining", "field": "statistika terapan", "page": 2, "source_url": "https://math.ui.ac.id/wp-content/uploads/sites/334/2025/03/Staff_Handbook_Titin-Siswantining.pdf"}
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "total_rows": 2,
+  "human_verified_rows": 0,
+  "answer_correct": {
+    "evaluated": 0,
+    "rate": null
+  },
+  "grounded": {
+    "evaluated": 0,
+    "rate": null
+  },
+  "refusal_appropriate": {
+    "evaluated": 0,
+    "rate": null
+  }
+}

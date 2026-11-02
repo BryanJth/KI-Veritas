@@ -1,0 +1,11 @@
+﻿original_pdf_page,claim_in_old_dataset,verification_or_recommendation,status
+p.4,Jalur SNMPTN/SBMPTN sebagai jalur penerimaan saat ini,Ganti dengan SNBP/SNBT dan jalur mandiri; A01/A08,confirmed_outdated
+p.3 + p.4,Seluruh administrasi memakai SIAK-NG,Per 6 Agustus 2026 layanan SIAK-NG ditutup dan migrasi ke SLCM; A05,confirmed_outdated
+p.1,Lebih dari 291 program studi,Publikasi resmi UI 2025 menyebut lebih dari 450 di seluruh jenjang; A13,older_undercount
+p.15,Empat rute Bis Kuning A/B/C/D termasuk Salemba-Depok,Sumber unit UI menjelaskan rute merah dan biru; jadwal dan armada berbeda antar halaman; A21/A22/A23,conflicting_not_safe
+p.15,Perpustakaan Minggu 09.00-16.00; ruang baca 24 jam,Halaman FISIP UI yang diperiksa mengonfirmasi Senin-Sabtu saja; Minggu/24 jam belum dikonfirmasi; A24,unverified
+p.1-4,"Aturan cuti dosen 2 minggu, beban 16 jam, 1 artikel/tahun, email 50GB",Peraturan spesifik tidak memiliki rujukan primer yang memadai dalam PDF lama; butuh dokumen kepegawaian resmi,unverified
+p.5-7,Jadwal tahunan event dianggap tetap bulanan,Butuh sumber resmi bertanggal per acara; A33/A34/A08,unverified
+p.16-18,"Harga asrama, jumlah kamar, tarif kantin, bandwidth Wi-Fi, nomor layanan",Tidak ditemukan bukti resmi terkini yang memadai dalam pemeriksaan ini; jangan dijadikan ground truth,unverified
+p.20,Fasilkom S1 hanya Ilmu Komputer dan Sistem Informasi,Halaman informasi calon mahasiswa saat ini juga menampilkan Kecerdasan Artifisial; A10,older_list_incomplete
+p.8-15,Status jabatan dosen ditulis sekarang tanpa tanggal,"Handbook yang tersedia mungkin lawas; profil boleh dipakai untuk keahlian/riwayat, jangan mengklaim jabatan mutakhir",time_sensitive
